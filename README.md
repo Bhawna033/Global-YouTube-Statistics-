@@ -1,4 +1,4 @@
-📊 Global YouTube Statistics Report
+1) 📊 Global YouTube Statistics Report
 
 📌 Project Overview
 
@@ -69,6 +69,86 @@ Earnings distribution is heavily skewed toward the top few YouTubers.
 I have also attach some Screenshot of this Project below:
 
 <img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/0f53216d-f3f8-4fed-b954-0b6e5d06f29c" />
+
+
+
+
+
+2) 🧑‍💼 HR Analytics Dashboard
+
+
+📌 Project Overview
+
+This project focuses on analyzing employee attrition trends using an interactive Tableau dashboard. The dashboard helps HR professionals and business leaders identify key factors influencing attrition, such as marital status, job role, travel frequency, promotion history, and department.
+
+The insights derived from this analysis can support strategic workforce planning, employee retention initiatives, and policy improvements.
+
+🛠 Tools & Technologies:
+
+Tableau → Data visualization and interactive dashboards
+
+Excel / CSV Dataset → HR dataset used for analysis
+
+Calculated Fields & Filters → For attrition-based KPIs and comparisons
+
+📂 Key Features of Dashboard:
+
+Attrition by Marital Status & Gender
+
+Compares attrition patterns between married, single, and divorced employees across genders.
+
+Attrition Trends by Tenure
+
+Displays attrition levels across years at the company.
+
+Highlights spikes in attrition during the first 5 years.
+
+Attrition by Last Promotion
+
+Correlates attrition with years since last promotion to detect stagnation effects.
+
+Attrition by Department
+
+Identifies departments with the highest attrition (e.g., Research & Development, Sales).
+
+Attrition by Travel History
+
+Shows attrition impact based on travel frequency (e.g., Travel_Rarely employees show highest attrition).
+
+Attrition by Job Role
+
+Highlights specific job roles facing higher attrition, such as Sales Executive and Research Scientist.
+
+Attrition by Number of Companies Worked
+
+Analyzes attrition trends based on employees’ past job-hopping history.
+
+📊 Dashboard Preview
+
+🚀 How to Use:
+
+Open the Tableau workbook (.twbx) in Tableau Desktop or view via Tableau Public.
+
+Use filters (Gender, Attrition status) for detailed breakdowns.
+
+Explore visualizations to analyze attrition patterns across demographics, roles, and career paths.
+
+🎯 Insights Gained:
+
+Employees with fewer years at the company (0–5 years) have higher attrition.
+
+Travel_Rarely employees are more prone to attrition compared to frequent travelers.
+
+Research & Development department shows significant attrition numbers.
+
+Lack of promotions over longer periods increases attrition likelihood.
+
+Certain roles such as Sales Executives and Research Scientists are more vulnerable to leaving.
+
+I have also Attach a Screenshot of this Tableau Project Below:
+
+<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/9ab11304-d313-4138-ae4d-2f4e330b9c00" />
+
 
 
 
